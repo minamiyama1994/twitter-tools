@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sync-follow", "sync-follow\sync-follow.csproj", "{3DECA8E8-D7B6-4AE1-94B8-58B8F7A950EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tweet", "..\tweet\tweet.csproj", "{70E870CD-B64B-47AC-9BCA-E7F023CC05B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3DECA8E8-D7B6-4AE1-94B8-58B8F7A950EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DECA8E8-D7B6-4AE1-94B8-58B8F7A950EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DECA8E8-D7B6-4AE1-94B8-58B8F7A950EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E870CD-B64B-47AC-9BCA-E7F023CC05B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E870CD-B64B-47AC-9BCA-E7F023CC05B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E870CD-B64B-47AC-9BCA-E7F023CC05B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E870CD-B64B-47AC-9BCA-E7F023CC05B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
